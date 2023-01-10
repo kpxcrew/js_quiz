@@ -1,0 +1,23 @@
+
+*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: black;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	width: 100vw;
+	align-items: center;
+	height: 100vh;
+	padding: 2rem;
+	max-width: 80rem;
+	margin: 0 auto;
+}
+
+.hidden {
+	display: none;
+}
